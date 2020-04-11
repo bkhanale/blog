@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bhushan Khanale</title>
+    <link>https://bhushan.codes/</link>
+    <description>Recent content on Bhushan Khanale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://bhushan.codes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://bhushan.codes/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bhushan.codes/about/</guid>
+      <description>Hi, I&amp;rsquo;m Bhushan. I&amp;rsquo;m currently working as a Tech Intern at Turtlemint company. I&amp;rsquo;ve been writing code for about more than 5 years now. I love it, and I hope I will continue doing it.
+To name a few accomplishments, I&amp;rsquo;ve been a Google Summer of Code Student at coala organization and have been very good in competitive programming. I was a round 3 qualifier for Google codejam.
+That&amp;rsquo;s about it.</description>
+    </item>
+    
+  </channel>
+</rss>
