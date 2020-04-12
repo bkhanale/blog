@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "GSoC'19: Coding Phase 2 begins"
 date: 2019-07-14
 tags: [gsoc, coala, experience]

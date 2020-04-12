@@ -39,9 +39,12 @@ img {
 /* Page content */
 
 .content {
-    text-align: justify;
     line-height: 2em;
     padding-top: 20px;
+}
+
+.content p {
+    text-align: justify;
 }
 
 /* Profile picture */
