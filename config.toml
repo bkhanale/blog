@@ -1,7 +1,7 @@
 baseURL = "https://bhushan.codes/"
 languageCode = "en-us"
 title = "Bhushan Khanale"
-googleAnalytics = ""
+googleAnalytics = "UA-165070744-1"
 
 [params]
     author = "Bhushan Khanale"
@@ -9,15 +9,13 @@ googleAnalytics = ""
     githubUsername = "bkhanale"
     accent = "teal"
     showBorder = false
-    backgroundColor = "white"
-    font = "Roboto Mono" # should match the name on Google Fonts!
-    highlight = true
-    highlightStyle = "solarized-dark"
+    font = "Roboto Mono"
     highlightLanguages = ["go", "julia"]
+    js = ["js/dark-switch.js",]
 
 [markup]
   [markup.highlight]
-    codeFences = false
+    style = "solarized-dark"
 
 [[menu.main]]
     url = "/"
@@ -57,3 +55,8 @@ googleAnalytics = ""
     url = "https://www.linkedin.com/in/bhushan-khanale/"
     name = "linkedin"
     weight = 4
+
+[[menu.icon]]
+    url = "https://github.com/bkhanale/resume/raw/master/bhushan_resume.pdf"
+    name = "file-pdf-o"
+    weight = 5

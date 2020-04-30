@@ -56,6 +56,9 @@
                             {{ range sort .Site.Menus.icon }}
                                 <li class="navbar-icon"><a href="{{ .URL }}"><i class="fa fa-{{ .Name }}"></i></a></li>
                             {{ end }}
+                            <li class="navbar-icon">
+                                <a class="js-dark-toggle" href="#"><i class="fa fa-moon-o"></i></a>
+                            </li>
                         </ul>
                     {{ end }}
                 </div>
