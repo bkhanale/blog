@@ -1,1 +1,3 @@
-Migrated to [bkhanale.github.io](https://github.com/bkhanale/bkhanale.github.io).
+# Blog
+
+This is a dump of the blog posts published on [blog.bhushankhanale.com](https://blog.bhushankhanale.com).
